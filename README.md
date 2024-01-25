@@ -1,0 +1,1 @@
+# implantar-um-cluster-do-AKS-Servi-o-de-Kubernetes-do-Azure-usando-a-CLI-do-Azure
